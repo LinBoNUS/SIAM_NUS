@@ -1,11 +1,13 @@
-## Welcome to GitHub Pages
+## About Us
 
-You can use the [editor on GitHub](https://github.com/LinBoNUS/SIAM_NUS/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is SIAM Student Chapter@NUS.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Events
 
-### Markdown
+### Past events
+2019.01.01-2019.12.31 Numerical methods
 
+### To be held
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
