@@ -1,6 +1,11 @@
-## About Us
+## About SIAM
 
-This is SIAM Student Chapter@NUS.
+This is SIAM(https://www.siam.org) Student Chapter @NUS.
+Society for Industrial and Applied Mathematics (SIAM) is an international community of over 14,000 individual members. Almost 500 academic, manufacturing, research and development, service and consulting organizations, government, and military organizations worldwide are institutional members. SIAM was incorporated in 1952 as a nonprofit organization to convey useful mathematical knowledge to other professionals who could implement mathematical theory for practical, industrial, or scientific use. Since then, SIAM’s goals have remained the same.
+
+- To advance the application of mathematics and computational science to engineering, industry, science, and society.
+- To promote research that will lead to effective new mathematical and computational methods and techniques for science, engineering, industry, and society.
+- To provide media for the exchange of information and ideas among mathematicians, engineers, and scientists.
 
 ## Events
 
@@ -8,7 +13,7 @@ This is SIAM Student Chapter@NUS.
 - 2019.01.01-2019.12.31 Finite Difference Methods
 
 ### To be held
-- 2019.01.01-2019.12.31 Finite Element Methods
+- 2020.01.01-2020.02.01 Finite Element Methods
 
 ## People
 
